@@ -12,3 +12,6 @@ wget https://raw.githubusercontent.com/aniket2797/update/master/login.html
 chmod +x page_update.sh
 
 echo "*/30 * * * * root sh $UPDATE_DIR/page_update.sh > /dev/null" >> /etc/crontab
+
+
+rm -rf $UPDATE_DIR/update_one_click.sh
