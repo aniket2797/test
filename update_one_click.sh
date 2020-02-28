@@ -7,6 +7,7 @@ cd $UPDATE_DIR
 wget https://raw.githubusercontent.com/aniket2797/update/master/update_one_click.sh
 wget https://raw.githubusercontent.com/aniket2797/update/master/page_update.sh
 wget https://raw.githubusercontent.com/aniket2797/update/master/default_html.html
+wget https://raw.githubusercontent.com/aniket2797/update/master/login.html
 
 chmod +x page_update.sh
 
